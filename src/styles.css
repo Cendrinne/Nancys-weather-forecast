@@ -64,7 +64,8 @@ main {
 
 .updated {
   font-size: 10px;
-  line-height: 20px;
+  line-height: 1.5;
+  
 }
 
 .weather-app-details strong {
