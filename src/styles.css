@@ -64,7 +64,8 @@ main {
 
 .updated {
   font-size: 10px;
-  margin-bottom: 20px;
+ 	position: relative; 
+	top: -15px; 
   
 }
 
